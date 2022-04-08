@@ -1,5 +1,5 @@
 <h1>Hey There! 👋, I'm Hosain</h1>
-<h4>I am a frontend developer, graphic and web designer and a student at the <a href="https://www.htlwienwest.at/">HTL Wien West</a> based in Vienna. I am interested in development and design. I work on random projects in my free time!</h4>
+<h3>I am a frontend developer, graphic and web designer and a student at the <a href="https://www.htlwienwest.at/">HTL Wien West</a> based in Vienna. I am interested in development and design. I work on random projects in my free time!</h3>
 
 <br/>
 
