@@ -3,11 +3,11 @@ I am a frontend developer, graphic and web designer and a student at the <a href
 
 <br/>
 
-- 🔭 I’m currently working on [hossaini.dev](https://hossaini.dev/)
+- 🔭 I’m currently working on [www.hossaini.dev](https://hossaini.dev/)
 
 - 🌱 I’m currently learning **Vue 3, Bootstrap, Tailwind and Full stack**
 
-- 👨‍💻 All of my projects are available at [hossaini.dev](https://hossaini.dev/)
+- 👨‍💻 All of my projects are available at [www.hossaini.dev](https://hossaini.dev/)
 
 - 📫 How to reach me **Hossainih03@gmail.com**
 
