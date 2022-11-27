@@ -19,7 +19,7 @@ I am a frontend developer, graphic and web designer and a student at the <a href
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,js,css,nodejs,tailwind,vue,linux,firebase,aws,bootstrap,cloudflare,ai,ps,pr,postgres)](https://hossaini.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,js,css,nodejs,tailwind,vue,linux,bootstrap,cloudflare,ai,ps,pr,postgres,docker)](https://hossaini.dev)<br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
