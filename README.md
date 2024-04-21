@@ -23,7 +23,7 @@ I am a frontend developer, graphic and web designer and a student at the <a href
 <details>
   <summary>Github Stats ⚡</summary>
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hossaini310&theme=dark&count_private=true&hide_border=true&line_height=30&show_icons=true&hide=issues,contribs)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hossaini310&theme=dark&count_private=true&hide_border=true&line_height=30&show_icons=true)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossaini310&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
 
 </details>
