@@ -24,6 +24,6 @@ I am a frontend developer, graphic and web designer and a student at the <a href
   <summary>Github Stats ⚡</summary>
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=hossaini310&theme=dark&count_private=true&hide_border=false&line_height=30&show_icons=true)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossaini310&theme=dark&hide_border=false&langs_count=3)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossaini310&theme=dark&hide_border=false&langs_count=4)</a>
 
 </details>
