@@ -4,17 +4,13 @@ I am a frontend developer, graphic and web designer and a student at the <a href
 <br/>
 
 
-- 🌱 I’m currently learning **Vue 3, Bootstrap, Tailwind and Full stack**
+- 🌱 I’m currently learning **Vue 3, Quasar, Tailwind and Full stack**
 
 - 👨‍💻 All of my projects are available at [www.hossaini.dev](https://hossaini.dev/)
 
 - 📫 How to reach me **Hossainih03@gmail.com**
 
 <br/>
-
-<h3 align="left">Connect with me:</h3>
-
-[![Instagram Badge](https://img.shields.io/badge/-@ceenadesign-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ceenadesign)
 
 <h3 align="left">Languages and Tools:</h3>
 
